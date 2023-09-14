@@ -6,8 +6,8 @@
       inclusive de Técnico em Informática onde aprendi a linguagem C#, 
       MySQL, Java e Desenvolvimento Web.
 - 📫 Email: gabrielsouza45@live.com
-- 😄 Pronouns: ele/dele
-- 👨‍💻Portifólio Web: https://portifolio-six-wheat.vercel.app/
+- 😄 Pronomes: ele/dele
+- 👨‍💻 Portifólio Web: https://portifolio-six-wheat.vercel.app/
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielSouza45&show_icons=true&theme=tokyonight&count_private=true&locale=pt-br)
 
