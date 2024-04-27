@@ -1,7 +1,7 @@
 ## Olá Mundo! Eu me chamo Gabriel Freitas Souza.
 
-- 🔭 Atualmente estou trabalhando como Desenvolvedor Backend Java na empresa Turn2C 
-- 🌱 Estou cursando superior em Análise e Desenvolvimento de Sistemas no Senac SP e estou estudando Python por conta
+- 🔭 Atualmente estou procurando uma nova oportunidade como Desenvolvedor Backend Java 
+- 🌱 Estou cursando superior em Análise e Desenvolvimento de Sistemas no Senac SP e estou estudando Cloud
 - 💬 Desde sempre amo tecnologia, já fiz diversos cursos na área, 
       inclusive de Técnico em Informática onde aprendi a linguagem C#, 
       MySQL, Java e Desenvolvimento Web.
