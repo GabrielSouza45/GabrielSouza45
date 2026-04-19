@@ -1,8 +1,12 @@
 # 👋 Olá, Mundo! Eu sou Gabriel Freitas Souza
 
-- 🔭 Atualmente em busca de uma nova oportunidade como **Desenvolvedor Backend Java**  
-- 🌱 Cursando **Análise e Desenvolvimento de Sistemas** no Senac SP e estudando **Cloud**  
-- 💬 Apaixonado por tecnologia desde sempre. Já realizei diversos cursos na área, incluindo Técnico em Informática, onde aprendi **C#**, **MySQL**, **Java** e **Desenvolvimento Web**  
+- 🔭 Desenvolvedor Java Spring na empresa DatumTI alocado no Banco BV  
+- 🎓 Cursando **Arquitetura de Software** na **FIAP**
+- 📜 Graduado em **Análise e Desenvolvimento de Sistemas** no Senac SP
+- 💬 Desenvolvedor Back-end com experiência em Java, Spring, APIs REST e Cloud
+(AWS/Azure). Atuação em projetos de alta escalabilidade, com foco em segurança,
+performance e boas práticas de arquitetura de software. Experiência em correção de
+vulnerabilidades, automação de testes e integração de sistemas críticos.
 - 📫 Email: **gabrielsouza45@live.com**  
 - 😄 Pronomes: **ele/dele**  
 - 👨‍💻 Portfólio Web: [Clique aqui](https://portifolio-six-wheat.vercel.app/)  
